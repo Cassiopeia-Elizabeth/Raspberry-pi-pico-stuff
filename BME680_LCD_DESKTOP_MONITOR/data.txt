@@ -1,0 +1,64 @@
+{"time": 114, "gas": "30253.79", "pressure": "100446.48", "temperature": "27.60", "humidity": "54.81"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 1, "gas": "844486.94", "pressure": "100451.19", "temperature": "27.63", "humidity": "54.59"}
+{"time": 21, "gas": "31956.59", "pressure": "100440.01", "temperature": "27.66", "humidity": "54.27"}
+{"time": 42, "gas": "32330.50", "pressure": "100438.26", "temperature": "27.70", "humidity": "54.06"}
+{"time": 63, "gas": "32661.70", "pressure": "100440.13", "temperature": "27.69", "humidity": "53.95"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 0, "gas": "866013.06", "pressure": "100437.62", "temperature": "27.76", "humidity": "53.40"}
+{"time": 21, "gas": "37611.34", "pressure": "100439.12", "temperature": "27.70", "humidity": "52.38"}
+{"time": 41, "gas": "39175.52", "pressure": "100434.95", "temperature": "27.71", "humidity": "51.83"}
+{"time": 62, "gas": "39361.54", "pressure": "100435.54", "temperature": "27.70", "humidity": "52.34"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 1, "gas": "1192619.25", "pressure": "100440.38", "temperature": "27.71", "humidity": "52.13"}
+{"time": 21, "gas": "40875.44", "pressure": "100436.13", "temperature": "27.69", "humidity": "52.18"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 1, "gas": "1446506.50", "pressure": "100423.06", "temperature": "27.72", "humidity": "52.23"}
+{"time": 22, "gas": "39436.44", "pressure": "100427.07", "temperature": "27.73", "humidity": "52.70"}
+{"time": 42, "gas": "37714.01", "pressure": "100418.59", "temperature": "27.76", "humidity": "52.57"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 1, "gas": "1488764.13", "pressure": "100421.16", "temperature": "27.78", "humidity": "52.85"}
+{"time": 21, "gas": "38130.36", "pressure": "100423.72", "temperature": "27.79", "humidity": "52.52"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 1, "gas": "1443355.13", "pressure": "100426.28", "temperature": "27.81", "humidity": "51.85"}
+{"time": 22, "gas": "39968.85", "pressure": "100420.26", "temperature": "27.82", "humidity": "51.87"}
+{"time": 42, "gas": "40875.44", "pressure": "100427.28", "temperature": "27.80", "humidity": "51.75"}
+{"time": 63, "gas": "41364.97", "pressure": "100416.84", "temperature": "27.80", "humidity": "51.77"}
+{"time": 84, "gas": "40956.23", "pressure": "100421.70", "temperature": "27.81", "humidity": "51.66"}
+{"time": 105, "gas": "40555.48", "pressure": "100431.13", "temperature": "27.82", "humidity": "51.80"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 1, "gas": "1363168.75", "pressure": "100427.14", "temperature": "27.81", "humidity": "51.69"}
+{"time": 21, "gas": "41614.15", "pressure": "100435.55", "temperature": "27.83", "humidity": "51.51"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 0, "gas": "1925872.25", "pressure": "100434.85", "temperature": "27.81", "humidity": "51.47"}
+{"time": 21, "gas": "43174.68", "pressure": "100439.71", "temperature": "27.82", "humidity": "51.61"}
+{"time": 41, "gas": "41614.15", "pressure": "100442.01", "temperature": "27.82", "humidity": "51.49"}
+{"time": 62, "gas": "41241.49", "pressure": "100444.13", "temperature": "27.83", "humidity": "51.58"}
+{"time": 83, "gas": "41489.19", "pressure": "100441.84", "temperature": "27.83", "humidity": "51.34"}
+{"time": 104, "gas": "42036.20", "pressure": "100435.55", "temperature": "27.83", "humidity": "51.46"}
+{"time": 124, "gas": "41489.19", "pressure": "100439.55", "temperature": "27.84", "humidity": "51.68"}
+{"time": 145, "gas": "41282.57", "pressure": "100440.68", "temperature": "27.86", "humidity": "51.45"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 1, "gas": "1334340.38", "pressure": "100437.37", "temperature": "27.87", "humidity": "51.29"}
+Time = Seconds, Temp = Celcius, Humidity = %, Pressure = pa, Gas = ohms
+{"time": 1, "gas": "13038131.00", "pressure": "100444.56", "temperature": "27.83", "humidity": "51.30"}
+{"time": 21, "gas": "42510.46", "pressure": "100441.84", "temperature": "27.83", "humidity": "51.18"}
+{"time": 42, "gas": "37139.51", "pressure": "100448.68", "temperature": "27.87", "humidity": "51.67"}
+{"time": 63, "gas": "38306.56", "pressure": "100445.52", "temperature": "27.87", "humidity": "51.23"}
+{"time": 84, "gas": "39815.27", "pressure": "100448.24", "temperature": "27.87", "humidity": "50.98"}
+{"time": 104, "gas": "41655.98", "pressure": "100445.52", "temperature": "27.87", "humidity": "50.87"}
+{"time": 125, "gas": "42250.45", "pressure": "100432.37", "temperature": "27.87", "humidity": "51.07"}
+{"time": 146, "gas": "42510.46", "pressure": "100441.37", "temperature": "27.88", "humidity": "50.87"}
+{"time": 167, "gas": "44187.32", "pressure": "100425.65", "temperature": "27.87", "humidity": "50.96"}
+{"time": 187, "gas": "46518.18", "pressure": "100417.49", "temperature": "27.87", "humidity": "50.44"}
+{"time": 208, "gas": "44376.55", "pressure": "100424.31", "temperature": "27.91", "humidity": "50.85"}
+{"time": 229, "gas": "40915.79", "pressure": "100430.13", "temperature": "27.96", "humidity": "51.31"}
+{"time": 250, "gas": "38991.25", "pressure": "100414.35", "temperature": "27.99", "humidity": "51.38"}
+{"time": 270, "gas": "36908.01", "pressure": "100422.02", "temperature": "28.04", "humidity": "51.37"}
+{"time": 291, "gas": "36010.16", "pressure": "100421.70", "temperature": "28.07", "humidity": "51.24"}
+{"time": 312, "gas": "35607.99", "pressure": "100423.42", "temperature": "28.08", "humidity": "51.03"}
+{"time": 333, "gas": "39064.75", "pressure": "100426.13", "temperature": "28.08", "humidity": "50.89"}
+{"time": 353, "gas": "38342.00", "pressure": "100424.10", "temperature": "28.10", "humidity": "51.16"}
+{"time": 374, "gas": "36809.68", "pressure": "100424.80", "temperature": "28.12", "humidity": "51.00"}
+{"time": 395, "gas": "35978.90", "pressure": "100417.59", "temperature": "28.16", "humidity": "50.96"}
+{"time": 416, "gas": "35244.64", "pressure": "100414.13", "temperature": "28.19", "humidity": "50.89"}
